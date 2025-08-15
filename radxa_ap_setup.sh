@@ -1,10 +1,5 @@
 #!/bin/bash
 
-# Radxa Rock5B+ Access Point Setup Script
-# Designed for RTL8852BE WiFi chipset with comprehensive error handling
-# Author: AI Assistant
-# Date: $(date)
-
 set -e  # Exit on any error
 
 # Colors for output
